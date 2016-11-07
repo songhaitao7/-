@@ -1,0 +1,7 @@
+在 Markdown 中，插入链接不需要其他按钮，你只需要使用 [显示文本](链接地址) 这样的语法即可，例如：
+
+[简书](http://www.jianshu.com)
+在 Markdown 中，插入图片不需要其他按钮，你只需要使用 ![](图片链接地址) 这样的语法即可，例如：
+
+![](http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg)
+注：插入图片的语法和链接的语法很像，只是前面多了一个 ！
